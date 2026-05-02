@@ -122,6 +122,4 @@ Pull requests are welcome. For major schema changes, open an issue first to disc
 
 ---
 
-## 📄 License
 
-MIT
